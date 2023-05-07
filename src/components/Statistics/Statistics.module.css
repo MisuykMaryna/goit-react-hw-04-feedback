@@ -1,0 +1,24 @@
+.statistics__list {
+    display: flex;
+        flex-direction: column;
+        gap: 15px;
+        background-color: #eddff0;
+        font-weight: 400;
+        font-size: 25px;
+}
+
+.statistics__span {
+    font-weight: 500;
+    
+}
+
+.statistics__positiveFeedback {
+    font-weight: 700;
+        margin-left: 5px;
+        margin-right: 5px;
+       
+    }
+    
+    
+
+
